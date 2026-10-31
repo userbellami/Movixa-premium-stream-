@@ -1,0 +1,6 @@
+{
+  "name": "Movixa",
+  "description": "Stream unlimited movies and series with ultra HD playback, watchlist, and personalized recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
